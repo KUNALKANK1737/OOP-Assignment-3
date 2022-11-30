@@ -52,12 +52,10 @@ int main() {
    
     while(true){
     complex c1,c2,c3,c4;
-       cout<<"Enter for first  complex number"<<endl;
-
+    cout<<"Enter for first  complex number"<<endl;
     cout<<"Enter the real part of  complex number :";
-    
     cin>>c1;
-   cout<<"Enter for second complex number"<<endl;
+    cout<<"Enter for second complex number"<<endl;
     cout<<"Enter the real part of  complex number :";
     cin>>c2;
     cout<<"Press 1:Addition \nPress 2:Multiplication \nEnter your choice :";
